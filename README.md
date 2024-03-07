@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/responsive-layout-using-vanilla-html-and-css-t8zAqxLB3)
+-   Live Site URL: [Github pages](https://taxato.github.io/product-preview-card-component/)
 
 ## My process
 
